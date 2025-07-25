@@ -8,11 +8,7 @@
     "author": "FMP Solutions S.A.S.",
     "website": "https://github.com/MarvinSoftwareSolutions/odoo-vialidad-cordoba",
     "license": "GPL-3",
-    "category": [
-        "Accounting & Finance",
-        "Union",
-        "Argentina"
-    ],
+    "category": "Accounting & Finance",
     "version": "16.0.0.0.0",
     "depends": [
         "account_check_printing",
